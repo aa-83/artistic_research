@@ -7,3 +7,12 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
 Artistic Research	README.md	/^# Artistic Research$/;"	c
+Download	README.md	/^### Download$/;"	S
+Download Individual Files	README.md	/^##### Download Individual Files$/;"	T
+Download Through CLI `git`	README.md	/^##### Download Through CLI `git`$/;"	T
+Download as Zip	README.md	/^##### Download as Zip$/;"	T
+How to Acess My Project Description	README.md	/^## How to Acess My Project Description$/;"	s
+How to Read the Images	README.md	/^### How to Read the Images$/;"	S
+Linux	README.md	/^###### Linux$/;"	u
+MacOS	README.md	/^###### MacOS$/;"	u
+Microsoft Windows	README.md	/^###### Microsoft Windows$/;"	u
