@@ -6,3 +6,5 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+Artistic Research	README.md	/^## Artistic Research$/;"	s
+Painting With Data	README.md	/^### Painting With Data$/;"	S

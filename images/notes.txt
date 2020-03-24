@@ -1,0 +1,33 @@
+2020-03-24
+
+Brief summary:
+My goal is to try and figure out more in depth about the jpg file format and how
+I can databend it. Hopefully with some predictable results. If I open an image
+and start randomly changing bytes the results often come out somehow similar.
+Bright saturated colours, horizontal lines, compression artefacts, and
+repetitions of the image content amongst other things.
+
+Databending:
+The kind of databending I want to do is by opening the images in a hex editor
+and edit the ASCII text. I want to see if there are ways that I can affect the
+image in a predictable way by finding out more about how the format works. To do
+that I will have to do some experiments.
+
+Method and Experiments:
+My method will include finding four images, two that are different, but the same
+resolution, and two more that are in different sizes. To sum up, four images,
+three resolutions. These will all be scrubbed of data in a hex editor, down to
+the size that removal of another byte will cause the file to break. By only
+keeping the header of the original images I hope I will have a more common
+ground to start from. The source for my images will be NASA since their images
+are licensed under the Creative Commons.
+
+So first of all I will scrub the data from the images. This turns the images
+into grey canvases for the new data to be reapplied. Having done that I will
+start writing in new data in the form of ASCII in a hex editor. With the text
+that I write I will see if I can find patterns in how the computer interprets
+the data I write into the image. An easy experiment will be to discover how many
+characters make a line, I expect this to be dependent on resolution. After that
+it will be to see if I can predict the colour as well. These things will be
+tried out on all four images at the same time so that I will be able to
+continuously compare the results of my changes.
