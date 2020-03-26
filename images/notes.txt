@@ -44,3 +44,8 @@ make a line of pixels in the particular image I am editing. I expected the
 different sized images to behave differently, but I found out the same-sized
 also acted differently. Not only in colour, but what made one line test3, made
 several lines in test4.
+
+2020-03-26
+Log
+Did not do much today, but added a license, GPL v.3.0 and added text to the
+README
