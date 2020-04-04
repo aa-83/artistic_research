@@ -49,3 +49,11 @@ several lines in test4.
 Log
 Did not do much today, but added a license, GPL v.3.0 and added text to the
 README
+
+2020-04-04
+Long Break in the work. Worked on an application for exchange in the fall, and
+did not get back in the rythm afterwards. But I am back in business now! I need
+to produce more content, and today I started writing about some of my thoughts
+regarding open source. Each image adds a new line of pixels to the existing
+image. In the end I hope to have a full image, and maybe make som animations
+with them.
