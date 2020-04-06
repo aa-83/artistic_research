@@ -57,3 +57,12 @@ to produce more content, and today I started writing about some of my thoughts
 regarding open source. Each image adds a new line of pixels to the existing
 image. In the end I hope to have a full image, and maybe make som animations
 with them.
+
+2020-04-05
+I renamed notes.txt to log and moved it to the main directory. In the different
+image directories I created new notes.txt files for each with the plan to write
+my ideas for each specific folder. I also made 29 images in the Alphabet
+directory.
+
+2020-04-06
+I have started updating the log and the notes.
