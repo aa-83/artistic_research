@@ -66,3 +66,11 @@ directory.
 
 2020-04-06
 I have started updating the log and the notes.
+
+2020-04-07
+Made two new test directories. One named non_repeating_text and one
+named metadata_experiments. The plan for these directories would be to try out
+metadata manipulation and just feeding random key strokes into an image. I
+started out with the random key strokes and I ended up with a broken image. I
+will try it one more time, but it seems like just random typing might break an
+image.
