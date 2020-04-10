@@ -74,3 +74,20 @@ metadata manipulation and just feeding random key strokes into an image. I
 started out with the random key strokes and I ended up with a broken image. I
 will try it one more time, but it seems like just random typing might break an
 image.
+
+2020-04-08
+Today I worked with a program called exiv2 which is a metadata manipulation
+program. I had hoped by using it I could make two seemingly similar images act
+differently with the same sets of data put into them. That did not happen. Two
+identical images will still look the same even if I manipulate the metadata in
+one of them. I did not delve very deep into this though. So I might get some new
+results with some further exploration.
+
+2020-04-09
+I did not do any work today, had the need for a think about what to do next.
+
+2020-04-10
+I wanted to readress the non-repeating text experiments, and turn them into the
+direct opposite. I found out that it was time consuming putting in the
+non-repeating text and have decided on using repeating patterns of text instead.
+First out I will use a sonnet by Shakespeare and see where it will take me.
