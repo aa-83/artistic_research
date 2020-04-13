@@ -91,3 +91,8 @@ I wanted to readress the non-repeating text experiments, and turn them into the
 direct opposite. I found out that it was time consuming putting in the
 non-repeating text and have decided on using repeating patterns of text instead.
 First out I will use a sonnet by Shakespeare and see where it will take me.
+
+2020-04-13
+Took a break over the weekend. Today I finished the sonnet experiments. But
+instead of only applying one template to the first ten sonnets, I used all four
+template instead.
