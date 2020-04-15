@@ -8,7 +8,13 @@
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
 About My Project	latex/milestone.tex	/^\\section{About My Project}$/;"	s
 About My Sharing Format	latex/milestone.tex	/^\\section{About My Sharing Format}$/;"	s
+Android	latex/template.tex	/^\\subsubsection{Android}$/;"	b	subsection:Download""Download Through CLI git
 Artistic Research	README.md	/^## Artistic Research$/;"	s
+Download	latex/template.tex	/^\\section{Download}$/;"	s
+Download Individual Files	latex/template.tex	/^\\subsection{Download Individual Files}$/;"	u	section:Download
+Download Through CLI git	latex/template.tex	/^\\subsection{Download Through CLI git}$/;"	u	section:Download
+Download as Zip	latex/template.tex	/^\\subsection{Download as Zip}$/;"	u	section:Download
+Linux	latex/template.tex	/^\\subsubsection{Linux}$/;"	b	subsection:Download""Download Through CLI git
+MacOS	latex/template.tex	/^\\subsubsection{MacOS}$/;"	b	subsection:Download""Download Through CLI git
+Microsoft Windows	latex/template.tex	/^\\subsubsection{Microsoft Windows}$/;"	b	subsection:Download""Download Through CLI git
 Painting With Data	README.md	/^### Painting With Data$/;"	S
-første avsnitt	latex/template.tex	/^\\section{første avsnitt}$/;"	s
-requests	latex/milestone.run.xml	/^<!DOCTYPE requests [$/;"	r
