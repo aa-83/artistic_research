@@ -6,5 +6,9 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+About My Project	latex/milestone.tex	/^\\section{About My Project}$/;"	s
+About My Sharing Format	latex/milestone.tex	/^\\section{About My Sharing Format}$/;"	s
 Artistic Research	README.md	/^## Artistic Research$/;"	s
 Painting With Data	README.md	/^### Painting With Data$/;"	S
+første avsnitt	latex/template.tex	/^\\section{første avsnitt}$/;"	s
+requests	latex/milestone.run.xml	/^<!DOCTYPE requests [$/;"	r
