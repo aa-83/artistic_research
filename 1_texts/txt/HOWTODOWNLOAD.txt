@@ -1,0 +1,36 @@
+## Download
+#### Download as Zip
+In the depository there is a green button that says **Clone or Downdload**.
+Clicking on this gives the opportunity to download the files as a zip. Download
+and unzip in folder of your choosing.
+
+#### Download Through CLI `git`
+
+##### Linux
+Open your terminal and install the `git` package from your distribution's
+repository. For example on an Arch based system run the command
+`sudo pacman -S git`. Having made sure that `git` is installed, run this command
+to download the files:
+ ```
+git clone https://github.com/aa-83/artistic_research.git`
+```
+
+##### MacOS
+To install git on you terminal follow these guides first, [How to install command line tools](http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/)
+and then [how to install Homebrew](http://osxdaily.com/2018/03/07/how-install-homebrew-mac-os/). This should not take more than five minutes.
+When this is done type in your terminal
+
+```
+brew install git
+git clone https://github.com/aa-83/artistic_research.git
+```
+
+##### Microsoft Windows
+Description in Progress
+
+##### Android
+Description in Progress
+
+#### Download Individual Files
+There is also the option of clicking on the .jpg-file and downloading the file
+from the webpage it leads to. To find the images, open the Images folder.

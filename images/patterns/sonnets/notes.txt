@@ -1,7 +1,0 @@
-In this directory I will make images based on Shakespeare's sonnets. I started
-out with making ten images each based on one of Shakespeare's first ten sonnets.
-Happy with the results I wanted to try and use the same ten sonnets on the other
-three templates that I have. The different templates acted somehow predictably.
-Template 1 and 4 made seemingly similar results. 3 made only black and white
-images with the least amount of details. 2, which is the biggest image, made
-densest images in regards to details.

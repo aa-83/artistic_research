@@ -1,0 +1,29 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[norsk]{babel}
+\usepackage[T1]{fontenc}
+
+\usepackage[
+backend=biber,
+style=authoryear-icomp
+]{biblatex}
+\addbibresource{~/documents/latex/bib/bibliografi.bib}
+\usepackage{csquotes}
+
+\title{sett inn tittel her}
+\author{Eirik Lie Hegre}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\section{første avsnitt}
+
+\textcite{parikkahertz15} ``media do no die; media persists as electronic waste,
+toxic residue, and its own sort of fossil layer of disused gadgets and
+electronics.`
+
+\printbibliography{}
+
+\end{document}

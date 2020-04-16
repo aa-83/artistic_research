@@ -1,6 +1,0 @@
-Initially this directory was about just putting random data into and image. I
-tried it without success. Some data I found would break an image. It would still
-be able to be open, but the image would not "progress". So I have re-evaluated
-my approach and will try and create images with patterns of text. So I will have
-a block a text to repeat until the image is finished. I will start out with a
-sonnet by Shakespeare.
