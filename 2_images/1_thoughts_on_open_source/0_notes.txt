@@ -1,0 +1,12 @@
+This directory was less of an experiment, but more a way of me to express some
+of my thoughts regarding the open source movement. The exercise I created was to
+write until the text had created one full line of pixels. As one line is made, I
+close the document, copy it, and continue typing in the new image. An idea that
+ocurred to me while typing the images. As I write the images, the image starts
+to fill. What I am curious about is whether it is possible to only keep the new
+text and remove what is a part of the others, while maintaining the postion
+without the previous data making the foundation for the placement of the pixels
+in the image. In the end I hope that this folder will consist of images that
+each only holds on line of pixels, and when laid all out next to eachother they
+would form a complete image. If this is doable, the next step would be to see if
+these images could be combined into an animation.
