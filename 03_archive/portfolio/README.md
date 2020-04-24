@@ -4,9 +4,9 @@ module spring 2020 at the Danish School of Performing Arts. In this folder I
 want to put in all the bits and pieces I have found out during the last four
 weeks. All in all I hope to combine pieces of all my different experiments. To
 have a look at the work I have been doing, click
-[here](https://github.com/aa-83/artistic_reasearch). And for a summary of what I
+[here](https://github.com/aa-83/artistic_research). And for a summary of what I
 have done click
-[here](https://github.com/aa-83/artistic_reasearch/01_texts/01_pdf/milestone.pdf).
+[here](https://github.com/aa-83/artistic_research/tree/master/01_texts/01_pdf/milestone.pdf).
 
 #### Quick info
 Before you start digging to deep into this project I will reccomend you to check
@@ -29,7 +29,7 @@ included some texts in here. This notes.txt that has been a major part in this
 project trying to explain what sort of ideas I have. I will also include some of
 the how-to's as well since the help guides will be usefull and arguable
 completely necesary for understanding this project. Especially the
-HOWTOREADIMAGES.txt.
+HOWTOREADANDVIEWIMAGES.pdf.
 
 ### Image Creation
 The third thing is of course the images. I will build on one of the ideas I had
@@ -44,6 +44,31 @@ experiments as well. This means that my lines will include single letter images
 as well as some of Shakespeare's sonnets. I will choose the letters and sonnets
 based on the images they created that I liked the most.
 
+### Image Contents
+In this list I show what text I have added to the images in this directory to 
+create my images. This is also what will reveal itself if opened in text formats.
+
+- Portfolio_line_01.jpg: The text from 01st_line.jpg
+- Portfolio_line_02.jpg: The text from 02nd_line.jpg
+- Portfolio_line_03.jpg: The text from 03rd_line.jpg
+- Portfolio_line_04.jpg: The text from 04th_line.jpg
+- Portfolio_line_05.jpg: The letter a
+- Portfolio_line_06.jpg: The letter d
+- Portfolio_line_07.jpg: The letter e
+- Portfolio_line_08.jpg: The letter h
+- Portfolio_line_09.jpg: The letter j
+- Portfolio_line_10.jpg: The letter p
+- Portfolio_line_11.jpg: Shakespeare's 1st Sonnet
+- Portfolio_line_12.jpg: Shakespeare's 2nd Sonnet
+- Portfolio_line_13.jpg: Shakespeare's 3rd Sonnet
+- Portfolio_line_14.jpg: Shakespeare's 4th Sonnet
+- Portfolio_line_15.jpg: Shakespeare's 5th Sonnet
+- Portfolio_line_16.jpg: Shakespeare's 6th Sonnet
+- Portfolio_line_17.jpg: Shakespeare's 7th Sonnet
+- Portfolio_line_18.jpg: Shakespeare's 8th Sonnet
+- Portfolio_line_19.jpg: Shakespeare's 9th Sonnet
+- Portfolio_line_20.jpg: Shakespeare's 10th Sonnet
+
 #### Finishing Remarks
-I have also included the template and the original it is based on to show from
-where this images has started.
+I have also included the template and the original file my images are based on to show 
+from where it is these images have evolved.
